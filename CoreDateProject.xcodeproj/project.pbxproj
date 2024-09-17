@@ -11,6 +11,7 @@
 		B25E1F3F2C9809CF006B44F5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25E1F3E2C9809CF006B44F5 /* ContentView.swift */; };
 		B25E1F412C9809D2006B44F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B25E1F402C9809D2006B44F5 /* Assets.xcassets */; };
 		B25E1F442C9809D2006B44F5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B25E1F432C9809D2006B44F5 /* Preview Assets.xcassets */; };
+		B25E1F4B2C994B4C006B44F5 /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25E1F4A2C994B4C006B44F5 /* PracticeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B25E1F3E2C9809CF006B44F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B25E1F402C9809D2006B44F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B25E1F432C9809D2006B44F5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B25E1F4A2C994B4C006B44F5 /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B25E1F3C2C9809CF006B44F5 /* CoreDateProjectApp.swift */,
 				B25E1F3E2C9809CF006B44F5 /* ContentView.swift */,
+				B25E1F4A2C994B4C006B44F5 /* PracticeView.swift */,
 				B25E1F402C9809D2006B44F5 /* Assets.xcassets */,
 				B25E1F422C9809D2006B44F5 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B25E1F3F2C9809CF006B44F5 /* ContentView.swift in Sources */,
+				B25E1F4B2C994B4C006B44F5 /* PracticeView.swift in Sources */,
 				B25E1F3D2C9809CF006B44F5 /* CoreDateProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
